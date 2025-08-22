@@ -27,3 +27,8 @@ The data is collected by **Prometheus** and visualized using **Grafana** dashboa
 - Uptime and response monitoring from Uptime Kuma
 - Traffic & resource monitoring from MikroTik Router
 - Custom Grafana dashboards for visualization
+# Jalankan service Prometheus dan Grafana:
+sudo systemctl enable prometheus
+sudo systemctl enable grafana
+sudo systemctl start prometheus
+sudo systemctl start grafana
