@@ -32,3 +32,4 @@ sudo systemctl enable prometheus
 sudo systemctl enable grafana
 sudo systemctl start prometheus
 sudo systemctl start grafana
+<img width="1080" height="1080" alt="photo-collage png" src="https://github.com/user-attachments/assets/b7ba02f6-d03c-49b3-91f1-0db791593cab" />
